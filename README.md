@@ -1,0 +1,1 @@
+A fresh graduate from a dental school opened his own dental clinic and started to make a living. This dental clinic has only one dentist, one dental chair, and n chairs for waiting for patients if there are any to sit on the chair. Initially, all the chairs are empty. If there is no patient, the dentist sleeps in his own chair.
